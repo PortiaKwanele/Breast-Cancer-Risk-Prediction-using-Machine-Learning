@@ -28,7 +28,7 @@ To set up the project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/donnie-alvin/BreastCancerRiskPrediction-usingMachineLearning.git
+   git clone (https://github.com/PortiaKwanele/Breast-Cancer-Risk-Prediction-using-Machine-Learning.git)
    cd breast-cancer-prediction
    ```
 
