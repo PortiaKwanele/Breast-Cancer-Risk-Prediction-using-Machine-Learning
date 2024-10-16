@@ -1,6 +1,6 @@
 # Breast Cancer Risk Prediction using Machine Learning
 
-This project demonstrates the implementation of machine learning models to predict breast cancer risk using two publicly available datasets: the **Wisconsin Diagnostic Breast Cancer (WDBC) dataset** and the **Breast Cancer Coimbra dataset**. The models used in this study include Logistic Regression, Random Forest, and Support Vector Machines (SVM), all implemented using the **scikit-learn** library.
+This project demonstrates the implementation of machine learning models to predict breast cancer risk using a publicly available dataset: the **Breast Cancer Coimbra dataset**. The models used in this study include Logistic Regression, Random Forest, and Support Vector Machines (SVM), all implemented using the **scikit-learn** library.
 
 ## Table of Contents
 - [Introduction](#introduction)
